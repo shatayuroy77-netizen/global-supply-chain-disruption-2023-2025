@@ -1,0 +1,5 @@
+port_id,port_name,country,alternative_route,base_dwell_days
+101,Port Said,Egypt,Cape of Good Hope,2.5
+102,Jeddah,Saudi Arabia,Cape of Good Hope,1.8
+103,Dubai,UAE,Alternative Gulf Route,1.2
+104,Singapore,Singapore,Normal,3.0

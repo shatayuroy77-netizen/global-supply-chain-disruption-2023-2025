@@ -1,0 +1,5 @@
+route_id,route_name,standard_distance_nm,diverted_distance_nm,is_disrupted
+1,Asia-Europe via Suez,8500,11800,1
+2,Asia-Europe via Cape of Good Hope,11800,11800,0
+3,Middle East-Europe Oil Route,6200,8200,1
+4,Mediterranean Feeder,1500,1500,0

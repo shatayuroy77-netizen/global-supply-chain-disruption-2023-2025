@@ -1,0 +1,5 @@
+vessel_type_id,vessel_type,avg_speed_knots
+1,Container Ship,19.0
+2,Oil Tanker,14.5
+3,LNG Carrier,18.0
+4,Bulk Carrier,12.0
